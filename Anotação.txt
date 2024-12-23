@@ -1,0 +1,14 @@
+1- Criar projeto
+    npm init -y
+2- Instalar Cypress
+    npm install Cypress
+3- Iniciar Cypress para configurar
+    npx cypress open
+4 - Criar arquivo de testes
+5- Criar cenários
+
+
+
+Existe outra forma de criar projeto
+    npx cypress open
+Já cria pasta e configuração
